@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+          <title>Barber daniels </title>    
+</head>
+<body> 
+    <form>
+        <label for="nombre">NOMBRE</label>
+        <input  type="text"     id="nombre" name="nombre"  placeholder="wamero"/> 
+    <br>
+   
+
+    
+    
+    
+    
+    <img src="monkey-haircut.gif"  style="width:300px;height:300px;">
+        
+        <h1>hola que tal </h1>
+      <h2>Soy Daniel z</h2>
+      <h3>Me presento por aqui</h3>
+      <p>Vamos hacer una introducion </p>
+      <hr>
+      <P>Un poco de mi trabajo</P>      
+      <h2>Y de lo que estoy aprendiendo </h2>
+      <br>
+      <p>Tambien quiero mostrar 
+        <br>
+    
+      <spam style="color:blue"> Una pagina publicitaria que tengo para mostrar mis trabajos  </spam>
+      
+      <!-- Es un comentario que no sale en el explorador . -->
+      <a target="_blank" href="https://www.instagram.com/BarberDaniels_">Pincha para acceder a mi red social de Instagram.</a>
+<img src="img/logo.png.jpg" width="300" />
+
+<head>
+    <style>
+    a:link, a:visited {
+      background-color: #f44336;
+      color: black;
+      padding: 15px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    <a href="default.asp">
+</a>    
+
+
+</body>
+</html>
